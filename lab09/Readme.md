@@ -31,7 +31,6 @@
   </li>
   <li>
     <h2>Basic program syntaxis syntaxis</h2>
-    <img src="![image](https://github.com/Long1908/FP_Haskell/assets/56315912/8156f3a0-ecfc-42a1-bafa-f0e5190978a3)
-" alt="">
+    ![image](https://github.com/Long1908/FP_Haskell/assets/56315912/f8517df1-cb90-4b42-be8a-e249c8cb22c1)
   </li>
 </ol>
