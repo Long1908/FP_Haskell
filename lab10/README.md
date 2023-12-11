@@ -15,5 +15,6 @@
     <li><b>'read'</b> -> to read a string and parse it like a different type</li>
     <li><b>'digitToInt'</b> -> from char to int</li>
     <li><b>'take'</b> -> parse a number and we take the first elements equal to that number from a list</li>
+    <li><b>'reverse'</b> -> takes a string and reverses it</li>
   </ol>
 </p>
