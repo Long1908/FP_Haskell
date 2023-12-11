@@ -24,13 +24,34 @@
         <li><b>**</b> -> which is power (e.g. 2 ** 4 == 16)</li>
         <li><b>max</b></li>
         <li><b>min</b></li>
-        <li><b>oddr</b></li>
+        <li><b>odd</b></li>
         <li><b>even</b></li>
         <li><b>fromIntegral</b> -> converts the parsed int to float, double and etc.</li>
       </ul>
   </li>
   <li>
     <h2>Basic program syntaxis syntaxis</h2>
-    ![image](https://github.com/Long1908/FP_Haskell/assets/56315912/f8517df1-cb90-4b42-be8a-e249c8cb22c1)
+    ![image](https://github.com/Long1908/FP_Haskell/assets/56315912/f8517df1-cb90-4b42-be8a-e249c8cb22c1)  
+  </li>
+  <li>
+    <h2>Basic if's statements and if-guards</h2>
+    ![image](https://github.com/Long1908/FP_Haskell/assets/56315912/20240657-d0ff-4453-b55d-e9033de79dc8)
+  </li>
+  <li>
+    <h2>Lists and things we can do with them</h2>
+      <ul>
+        <li><b>[INT]</b> -> or any data type that we mentioned so far.</li>
+        <li><b>'1:[]'</b> -> adds 1 (or anythig that we parse) into the list</li>
+        <li><b>null</b> -> built in function to check if somethingis null or empty</li>
+        <li><b>elem n</b> -> takes the n-th element from a list</li>
+        <li><b>length </b> -> reverses a list</li>
+        <li><b>sum</b></li>
+        <li><b>product</b></li>
+        <li><b>minimum/maximum</b></li>
+        <li><b>take n</b></li>
+        <li><b>drop n</b></li>
+        <li><b>nub</b></li>
+        <li><b>sort</b></li>
+      </ul>
   </li>
 </ol>
