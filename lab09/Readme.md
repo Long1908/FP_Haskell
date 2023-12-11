@@ -26,7 +26,12 @@
         <li><b>min</b></li>
         <li><b>oddr</b></li>
         <li><b>even</b></li>
-        <li><b>fromIntegral</b> -> converts the parsed integer to float, double and etc.</li>
+        <li><b>fromIntegral</b> -> converts the parsed int to float, double and etc.</li>
       </ul>
+  </li>
+  <li>
+    <h2>Basic program syntaxis syntaxis</h2>
+    <img src="![image](https://github.com/Long1908/FP_Haskell/assets/56315912/8156f3a0-ecfc-42a1-bafa-f0e5190978a3)
+" alt="">
   </li>
 </ol>
