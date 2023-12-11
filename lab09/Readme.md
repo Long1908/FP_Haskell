@@ -27,6 +27,10 @@
         <li><b>odd</b></li>
         <li><b>even</b></li>
         <li><b>fromIntegral</b> -> converts the parsed int to float, double and etc.</li>
+        <li><b>floor</b></li>
+        <li><b>ceiling</b></li>
+        <li><b>round</b></li>
+        <li><b>trunc</b></li>
       </ul>
   </li>
   <li>
